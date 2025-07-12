@@ -17,3 +17,4 @@ to help easily detect malicious IPs and proxies.
 
 ```bash
 pip install NotYourIP
+```
