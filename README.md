@@ -1,10 +1,10 @@
 <div align="center">
     <h1>NotYourIP</h1>
     <p>Block a Proxy and Cloud Services.</p>
-    <img src="https://img.shields.io/github/license/lunarist-dev/Discord-Backup?style=flat">
-    <img src="https://img.shields.io/github/downloads/lunarist-dev/Discord-Backup/total?style=flat">
-    <img src="https://img.shields.io/github/stars/lunarist-dev/Discord-Backup?style=flat">
-    <img src="https://img.shields.io/github/forks/lunarist-dev/Discord-Backup?style=flat">
+    <img src="https://img.shields.io/github/license/lunarist-dev/NotYourIP?style=flat">
+    <img src="https://img.shields.io/github/downloads/lunarist-dev/NotYourIP/total?style=flat">
+    <img src="https://img.shields.io/github/stars/lunarist-dev/NotYourIP?style=flat">
+    <img src="https://img.shields.io/github/forks/lunarist-dev/NotYourIP?style=flat">
     <br>
     <br>
     <p><i>Star The Repo please</i></p>
